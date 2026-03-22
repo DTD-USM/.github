@@ -1,5 +1,10 @@
+
 # Dirección de Transformación Digital
 
-Creada en Octubre de 2022 por Decreto de Rectoría 267/2022, la Dirección de Transformación Digital es una de las piezas que componen la evolución tecnológica de nuestra institución, trabajando en estrecha colaboración con la Dirección General de Tecnologías y sus direcciones dependientes. Esta sinergia permite desarrollar y ejecutar la estrategia de transformación digital, definiendo lineamientos y políticas para los sistemas y servicios tecnológicos. Responsable del Roadmap Tecnológico, la Dirección de Transformación Digital garantiza que la institución se mantenga a la vanguardia en innovaciones digitales. Su rol abarca la explotación y gobierno de datos, y la implementación de modelos analíticos avanzados y nuevas capacidades de desarrollo. Es también un actor crucial en la gestión del cambio, facilitando la adaptación organizacional ante los retos tecnológicos emergentes.
+La Dirección de Transformación Digital fue creada en octubre de 2022 mediante el Decreto de Rectoría 267/2022, con el propósito de impulsar la evolución tecnológica de la Universidad. Opera en estrecha colaboración con la Dirección General de Tecnologías y sus unidades dependientes, articulando una estrategia institucional coherente que define lineamientos y políticas para los sistemas y servicios digitales.
 
-Además, la Dirección de Transformación Digital apoya activamente proyectos liderados por otras unidades de la institución, contribuyendo a la creación de un ecosistema tecnológico integrado y alineado con las tendencias del mercado y las necesidades académicas.
+Entre sus responsabilidades centrales se encuentran la gestión del Roadmap Tecnológico, el gobierno y explotación de datos, y el desarrollo de modelos analíticos avanzados. Cumple además un rol activo en la gestión del cambio, acompañando a la institución en su adaptación ante los desafíos tecnológicos emergentes.
+
+La DTD también colabora transversalmente con otras unidades de la Universidad, contribuyendo a la construcción de un ecosistema digital integrado, alineado tanto con las tendencias del entorno como con las necesidades propias de la comunidad académica.
+
+> Más detalles: [transformaciondigital.usm.cl/dtd](https://transformaciondigital.usm.cl/dtd/)
